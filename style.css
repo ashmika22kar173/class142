@@ -1,0 +1,49 @@
+body{
+background-size:cover;
+background-position: center;
+}
+
+.header{
+width: 100%;
+text-align: left;
+}
+
+#button{
+    float: right;
+}
+
+.header h3{
+    display: inline;
+}
+
+.img{
+width: 100%;
+
+}
+
+.modal-dialog{
+width: 90%;
+
+
+}
+
+.img2{
+display: inline-block;
+width: 45%;
+}
+
+video{
+background: url("game_console.png");
+background-size: cover;
+background-position: center;
+padding: 20px;
+}
+
+h4{
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color: grey;
+color: white;
+position: fixed;
+}
